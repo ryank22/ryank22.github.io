@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://ryank22.github.io/images/Pic.jpg",
     "email": "ryankkaw@hawaii.edu",
-    "phone": "808-xxx-xxxx",
+    "phone": "",
     "website": "https://ryank22.github.io",
     "summary": "My name is Ryan. I am currently a Junior at UH Manoa studying for a B.A. degree in C.S. in the Department of Information and Computer Sciences.,
     "location": {
-      "address": "xxx",
-      "postalCode": "xxx",
+      "address": "",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "ryank22",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/ryank22"
       },
       {
         "network": "linkedin",
