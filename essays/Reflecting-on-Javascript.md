@@ -1,13 +1,19 @@
 -----
 layout: essay
+
 type: essay
+
 published: true
+
 title: Reflecting on Javascript
+
 date: 2018-01-19
+
 labels: 
  -Software engineering
  -Learning process
- summary: My technical essay on my reflections with coding in Javascript.
+ 
+ summary: My technical essay on my reflections with coding in Javascript and other course related topics.
 -----
 
 Ever since I began learning how to code, my feelings were unclear as what to expect from each language and the difficulty it would be
