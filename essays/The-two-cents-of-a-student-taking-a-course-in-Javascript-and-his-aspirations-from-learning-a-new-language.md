@@ -5,11 +5,12 @@ type: essay
 
 published: true
 
-title: Reflecting on Javascript
+title: The two cents of a student taking a course in Javascript and his aspirations from learning a new langauge. 
 
 date: 2018-01-19
 
 labels: 
+
  -Software engineering
  -Learning process
  
