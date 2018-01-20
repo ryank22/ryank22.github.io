@@ -43,7 +43,7 @@ Althletic software engineering is an interesting concept that previously I was n
 specific environments. As mentioned by the professor, there is so much material in software engineering to cover in one semester that 
 A.S.E. principles make it possible for students to accomplish obtainable goals in a short period of time. I agree with these concepts 
 wholeheartedly and hope to achieve the desired results by the end of this semester. Professor Johnson's points clearly emphasize the 
-concepts of A.S.E. and offers a clear insight on how and what to gain in the learning process. In programmimg, often times it can be 
+concepts of A.S.E. and offers a clear insight on how and what to gain in the learning process. In programming, often times it can be 
 easy for a programmer to lose themselves in coding and not have a strong knack to work in groups with other individuals. It is more 
 crucial than ever in this field to provide conditions, which promote communication and interaction with others. Sometimes improving 
 oneself is more important than participating in a competition and coming out victorious. In my experience, competitions promote all 
