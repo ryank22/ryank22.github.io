@@ -86,9 +86,9 @@
   "work": [
     {
       "company": "Kyo-ya Ohana LLC",
-      "position": "Available Upon Request",
+      "position": "",
       "website": "N/A",
-      "startDate": "Available Upon Request",
+      "startDate": "2013-07-01",
       "endDate": "Present",
       "summary": "Available Upon Request",
       "highlights": [
@@ -112,7 +112,7 @@
   "references": [
     {
       "name": "Available Upon Request",
-      "reference": "Available Upon Request"
+      "reference": ""
     }
   ]
 }
