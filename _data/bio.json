@@ -36,6 +36,8 @@
     {
       "name": "computer software",
       "keywords": [
+        "mac",
+        "windows"
       ]
     },
     {
@@ -52,21 +54,20 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "N/A",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript"
       ]
-    }
+    },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "N/A",
       "keywords": [
         "MacOS",
-        "Git/GitHub",
-        "g++"
+        "Git/GitHub"
       ]
     }
   ],
@@ -75,81 +76,43 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.A.",
-      "startDate": "",
+      "startDate": "2015-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "N/A",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "Kyo-ya Ohana, LLC",
-      "position": "",
-      "website": "",
-      "startDate": "",
+      "company": "Kyo-ya Ohana LLC",
+      "position": "Available Upon Request",
+      "website": "N/A",
+      "startDate": "Available Upon Request",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Available Upon Request",
       "highlights": [
-        ""
-      ]
-    }
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
+        "Available Upon Request"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Available upon request",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Available Upon Request",
+      "website": "Available Upon Request",
+      "position": "Available Upon Request",
+      "startDate": "Available Upon Request",
+      "endDate": "Present",
+      "summary": "Available Upon Request",
       "highlights": [
-        ""
+        "Available Upon Request"
       ]
-    }
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Available upon request",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Available Upon Request",
+      "reference": "Available Upon Request"
     }
   ]
 }
