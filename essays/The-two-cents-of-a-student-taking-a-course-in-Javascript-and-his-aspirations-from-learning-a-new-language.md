@@ -1,4 +1,4 @@
------
+---
 layout: essay
 
 type: essay
@@ -15,7 +15,7 @@ labels:
  -Learning process
  
  summary: My technical essay on my reflections with coding in Javascript and other course related topics.
------
+---
 
 Ever since I began learning how to code, my feelings were unclear as what to expect from each language and the difficulty it would be
 for me to adapt to each one. I've taken courses in the past where it involved knowing languages such as Java, C and C++. Although each 
