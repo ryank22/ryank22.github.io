@@ -6,6 +6,7 @@ title: The two cents of a student taking a course in Javascript and his aspirati
 date: 2018-01-19
 labels: 
  -Software engineering
+ 
  -Learning process
  
 summary: My technical essay on my reflections with coding in Javascript and other course related topics.
