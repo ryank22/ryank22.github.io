@@ -5,7 +5,7 @@ published: true
 title: Living life independently
 date: 2018-01-19
 labels: 
-future goals, knowledge, experiences
+ future goals, knowledge, experiences
 
 summary: My experiences, decision-making and dreams prior to and during college.
 ---
