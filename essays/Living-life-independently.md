@@ -6,6 +6,8 @@ title: Living life independently
 date: 2018-01-19
 labels: 
 future goals, knowledge, experiences
+
+summary: My experiences, decision-making and dreams prior to and during college.
 ---
 
 After graduating from High School, I was still unsure of what direction to take and what field to get in to. It had been a long standing
