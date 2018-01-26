@@ -11,9 +11,7 @@ future goals, knowledge, experiences
 After graduating from High School, I was still unsure of what direction to take and what field to get in to. It had been a long standing
 issue as I'm sure many other individuals also experienced as well. However, after taking classes in Liberal Arts, I had given myself an 
 opportunity to earn credits while determining what degree to study for. I began by taking prerequisite courses at KCC. 
-By doing so, I finally decided to enroll for courses in Computer Science. It has been somewhat of a passion of mine growing up to learn 
-how devices such as cellular phones and computers operate from not only the software programming aspect, but the hardware scale of it 
-as well.
+By doing so, I finally decided to enroll for courses in Computer Science. It has been somewhat of a passion of mine growing up to understand how devices such as cellular phones and computers operate from not only the software programming aspect, but the hardware scale of it as well.
 
 Going to college and working has been accustomed to me since my first year in college and as of today is still a challenging obstacle. 
 Teaching yourself how to allocate an appropriate amount of time for studies while managing work and sleep; there is never a dull moment. 
