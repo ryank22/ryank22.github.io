@@ -5,7 +5,7 @@ published: true
 title: Living life independently
 date: 2018-01-19
 labels: 
-future goals, knowledge, experiences
+future goals, knowledge,experiences
 ---
 
 After graduating from High School, I was still unsure of what direction to take and what field to get in to. It had been a long standing
