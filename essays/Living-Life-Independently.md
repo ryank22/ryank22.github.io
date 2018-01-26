@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Living life independently
+title: Living Life Independently
 date: 2018-01-19
 labels: 
  future goals, knowledge, experiences
